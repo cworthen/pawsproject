@@ -14,5 +14,5 @@ I created this theme in a local environment before deploying to a live server. D
 ### What I learned:
 
 I learned how to make content dynamic with PHP, debug errors, and utilize plugins.
-To view project click here: 
+
 
